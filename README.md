@@ -2,7 +2,7 @@
 =======================================================================================================================================
 
 * 🌍  Vientiane, Laos
-* 🖥️  Portfolio [Portfolio](http://alounyadeth-portfolio.netlify.app/)
+* 🖥️  My portfolio [Portfolio](http://alounyadeth-portfolio.netlify.app/)
 * ✉️  Contact [andrewasnl70@gmail.com](mailto:andrewasnl70@gmail.com)
 
 ### Skills
