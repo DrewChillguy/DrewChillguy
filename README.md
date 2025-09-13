@@ -2,7 +2,6 @@
 =======================================================================================================================================
 
 * 🌍  Vientiane, Laos
-* 🖥️  My portfolio [Portfolio](https://my-portfolio-kmqq.onrender.com/)
 * ✉️  Contact [andrewasnl70@gmail.com](mailto:andrewasnl70@gmail.com)
 
 ### Skills
